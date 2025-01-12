@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/WebApiDemo/.vs/WebApiDemo
+/WebApiDemo/WebApiDemo/obj
+/WebApiDemo/WebApiDemo.sln
